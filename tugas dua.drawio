@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T00:51:41.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.8" etag="VTwlvErcK7ClrWvcm_bK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:18:14.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TskGOMTZ5h6PbWzhflee" version="22.0.8" type="github">
   <diagram name="Page-1" id="sF0Wd850f1XT-yWZANTL">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hl-wOQxRAhCaB6Ij0AIo-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-8" value="bilangan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hl-wOQxRAhCaB6Ij0AIo-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hl-wOQxRAhCaB6Ij0AIo-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-11" value="sisa=0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-20" value="genap" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hl-wOQxRAhCaB6Ij0AIo-27" target="hl-wOQxRAhCaB6Ij0AIo-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-27" value="ganjil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-30" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hl-wOQxRAhCaB6Ij0AIo-31" target="hl-wOQxRAhCaB6Ij0AIo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-31" value="mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.417;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hl-wOQxRAhCaB6Ij0AIo-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-36" value="tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hl-wOQxRAhCaB6Ij0AIo-37" value="ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
